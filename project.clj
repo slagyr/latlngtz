@@ -1,4 +1,4 @@
-(defproject latlngtz "1.0.0"
+(defproject com.slagyr/latlngtz "1.0.0"
   :description "Maps lat/lng coordinates to timezones"
   :url "http://www.edval.biz/mapping-lat-lng-s-to-timezones"
   :license {:name "GPL"
