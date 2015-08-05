@@ -7,4 +7,6 @@
   :profiles {:dev {:dependencies [[speclj "3.3.1"]]}}
   :plugins [[speclj "3.3.1"]]
   :test-paths ["spec"]
-  :java-source-paths ["src"])
+  :java-source-paths ["src"]
+  :jar-exclusions [#"\.java"]
+  )
